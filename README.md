@@ -3,3 +3,4 @@
 
 - I’m currently learning : **C, Dart, Flutter**
 - Looking forward to create cool projects !
+- Checkout my blog : [Hrishi's blog](https://blogs-by-hrishi.onrender.com/)
